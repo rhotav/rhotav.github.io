@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Greetings! I am Utku Çorbacı, widely known as Rhotav within the cyber sec community. My passion lies in the captivating realms of reverse engineering, malware analysis, artificial intelligence, and exploit development. I'm currently working as a security researcher at Malwation.
