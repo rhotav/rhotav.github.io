@@ -6,13 +6,7 @@ description: Zararlı yazılımlara hükmetme yolunda önemli bir adım... Windo
 tags: [Kernel, Windows, TR]
 ---
 
-“Never memorize something that you can look up.”
--- Albert Einstein
-
-
 Bu serinin ilk yazısının, devamında yayınlayacağım projelerin temel taşı olacak Windows Kernel hakkında 101 eğitimi niteliğinde bir yazı olmasını hedefliyorum.
-
-$$E=mc^2$$
 
 ## Kernel Nedir?
 Tabii önce kendisinin ne olduğunu söylemek icap eder... Kernel (işletim sistemi çekirdeği), işletim sistemi üzerinde her şey üzerinde denetimi bulunan merkezi bir bileşendir.
